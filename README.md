@@ -1,5 +1,9 @@
 # Minha Refeição – Serviço de Assinatura de Marmitas
 
+Link do vídeo: https://youtu.be/j7UlzHst_gQ
+
+Mais informações na WIKI...
+
 **Entrega 4 – Implementação em Java do caso de uso "Assinar Plano de Refeições"**
 Disciplina: Projeto de Software – Prof.ª Ana Claudia Rossi – Ciência da Computação (Mackenzie)
 Grupo: Gustavo Rodrigues Alberto (10738010) e Gabriel Mello Aristides (10736402)
