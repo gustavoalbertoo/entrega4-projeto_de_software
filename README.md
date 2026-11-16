@@ -76,8 +76,6 @@ java Main
 Se aparecer `ERRO: pasta 'dados' ... nao encontrada`, você não está na pasta do projeto: use `cd` até a pasta
 que contém `src` e `dados`.
 
-> Se for publicar no GitHub, não envie os arquivos `.class` gerados na compilação.
-
 ## 4. Simulações (sistemas externos)
 
 | Sistema externo | Como foi simulado |
